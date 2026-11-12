@@ -1,0 +1,1 @@
+/arm_ws/build/arm05_search_interfaces/rosidl_typesupport_fastrtps_cpp/arm05_search_interfaces/msg/detail/cube__rosidl_typesupport_fastrtps_cpp.hpp

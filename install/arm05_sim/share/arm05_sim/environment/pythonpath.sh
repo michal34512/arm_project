@@ -1,0 +1,1 @@
+/arm_ws/build/arm05_sim/ament_cmake_environment_hooks/pythonpath.sh

@@ -1,0 +1,35 @@
+Result:
+    result:
+  header:
+    stamp:
+      sec: 946
+      nanosec: 653000000
+    frame_id: map
+  cubes:
+  - id: 1
+    position:
+      x: -5.22685939567631
+      y: -0.7594521244755087
+      z: 0.03405187286996165
+    samples: 11
+  - id: 2
+    position:
+      x: 2.5126855142811784
+      y: -4.3423661117269114
+      z: 0.03037380745224811
+    samples: 14
+  - id: 3
+    position:
+      x: 4.202355433462305
+      y: 3.457057667066055
+      z: 0.037041591465626356
+    samples: 9
+  - id: 4
+    position:
+      x: 10.950038742774021
+      y: -2.157799221538563
+      z: 0.03292654553471869
+    samples: 11
+scanned_points: 27
+total_points: 27
+message: 'Koniec trasy. Brak ID: [0].'

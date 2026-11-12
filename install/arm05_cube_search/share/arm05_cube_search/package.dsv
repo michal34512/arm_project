@@ -1,0 +1,9 @@
+source;share/arm05_cube_search/hook/pythonpath.ps1
+source;share/arm05_cube_search/hook/pythonpath.dsv
+source;share/arm05_cube_search/hook/pythonpath.sh
+source;share/arm05_cube_search/hook/ament_prefix_path.ps1
+source;share/arm05_cube_search/hook/ament_prefix_path.dsv
+source;share/arm05_cube_search/hook/ament_prefix_path.sh
+source;../../build/arm05_cube_search/share/arm05_cube_search/hook/pythonpath_develop.ps1
+source;../../build/arm05_cube_search/share/arm05_cube_search/hook/pythonpath_develop.dsv
+source;../../build/arm05_cube_search/share/arm05_cube_search/hook/pythonpath_develop.sh

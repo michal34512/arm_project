@@ -1,0 +1,11 @@
+# Pusty cel: uruchom poszukiwanie wedlug konfiguracji.
+---
+arm05_search_interfaces/CubeArray result
+uint32 scanned_points
+uint32 total_points
+string message
+---
+uint32 waypoint_index
+uint32 total_points
+int32[] found_ids
+string phase

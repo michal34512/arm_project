@@ -1,0 +1,1 @@
+/arm_ws/src/arm05_sim/scripts_arm05/spawn_aruco.py

@@ -1,0 +1,1 @@
+/arm_ws/build/arm05_search_interfaces/rosidl_generator_rs/arm05_search_interfaces/rust/src/srv.rs

@@ -1,0 +1,1 @@
+/arm_ws/build/arm05_search_interfaces/rosidl_generator_cpp/arm05_search_interfaces/msg/detail/aruco_detection__builder.hpp

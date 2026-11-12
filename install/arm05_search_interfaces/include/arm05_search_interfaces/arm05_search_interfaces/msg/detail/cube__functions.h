@@ -1,0 +1,1 @@
+/arm_ws/build/arm05_search_interfaces/rosidl_generator_c/arm05_search_interfaces/msg/detail/cube__functions.h

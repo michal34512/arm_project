@@ -1,0 +1,1 @@
+/arm_ws/src/arm05_search_interfaces/msg/CubeArray.msg

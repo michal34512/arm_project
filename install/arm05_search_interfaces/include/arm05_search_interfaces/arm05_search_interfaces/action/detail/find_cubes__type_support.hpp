@@ -1,0 +1,1 @@
+/arm_ws/build/arm05_search_interfaces/rosidl_generator_cpp/arm05_search_interfaces/action/detail/find_cubes__type_support.hpp
